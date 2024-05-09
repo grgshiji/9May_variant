@@ -14,5 +14,7 @@
   ],
   "repoType": "mono",
   "variantOf": "HZUr3SCQHBTiA53kBB5yt",
-  "variantOfBlockId": "PuTUUcyJa96Yn7z_42Fi3"
+  "variantOfBlockId": "PuTUUcyJa96Yn7z_42Fi3",
+  "dependencies": {},
+  "version": "0.0.1"
 }
